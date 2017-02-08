@@ -1,0 +1,6 @@
+{
+  "test_auth.py::TestAuth::()::test_logged_customer_header_and_menu": true,
+  "test_auth.py::TestAuth::()::test_logged_operator_header_and_menu": true,
+  "test_auth.py::TestAuth::()::test_not_exist_login": true,
+  "test_auth.py::TestAuth::()::test_not_exist_password": true
+}
